@@ -1,7 +1,7 @@
 # ---------------------------------------------
 # Name: Zainab Olajide
 # Date: 3/12/2025
-# Assignment: Simple Dijkstra's Path Finder
+# Assignment:  Dijkstra's Path Finder
 # Description: Finds the shortest path from a 
 #              starting node to all others using
 #              basic Dijkstra's algorithm.
